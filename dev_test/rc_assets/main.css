@@ -1,0 +1,279 @@
+body {
+	font-family:sans-serif;
+	background-color: #DEDEDE;
+	color: #333;
+	padding: 20px 0 28px 0;
+	margin: 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.image-leaves {
+	margin-top: 53px;
+	margin-left: -106px;
+	height: 716px;
+	width: 1074px;
+}
+
+.image-foxgates {
+	margin-top: 50px;
+	padding: 10px;
+	height: 492px;
+	width: 738px;
+}
+
+.image-ocean {
+	margin-top: 25px;
+	padding: 10px;
+	height: 501px;
+	width: 751px;
+}
+
+.image-left {
+	margin-left: 187px;
+	height: 701px;
+	width: 701px;
+	background-color: #D8D8D8;
+}
+
+.grey-panel {
+	margin-top: 100px;
+	margin-left: 162px;
+	height: 1458px;
+	width: 1758px;
+	border: 1px solid #E5E5E5;
+	background-color: #F6F6F6;
+}
+
+.section-heading-copy {
+	margin-left: -20px;
+	height: 28px;
+	width: 186px;
+	color: #BEBEBE;
+	font-family: "Roboto Slab";
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 1.4px;
+	line-height: 28px;
+	text-align: center;
+}
+
+.highlight-paragraph {
+	height: 132px;
+	width: 701px;
+	color: #27198C;
+	font-family: Muli;
+	font-size: 30px;
+	font-weight: 900;
+	line-height: 44px;
+}
+
+.sed-ut-perspiciatis {
+	margin-top: 30px;
+	height: 90px;
+	width: 701px;
+	color: #191919;
+	font-family: Muli;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 30px;
+}
+
+.text {
+	margin-top: 80px;
+	margin-left: 81px;
+	height: 380px;
+	width: 701px;
+}
+
+.icons {
+	margin-top: 80px;
+	margin-left: 0px;
+	height: 200px;
+	width: 702px;
+}
+
+.icon-item-1 {
+	float: left;
+	height: 200px;
+	width: 153px;
+}
+
+.icon-item-2 {
+	float: left;
+	margin-left: 30px;
+	height: 178px;
+	width: 153px;
+}
+
+.icon-item-3 {
+	float: left;
+	margin-left: 30px;
+	height: 200px;
+	width: 153px;
+}
+
+.icon-item-4 {
+	float: left;
+	margin-left: 30px;
+	height: 178px;
+	width: 153px;
+}
+
+.icon-label-lorem-ips {
+	margin-top: 12px;
+	height: 44px;
+	width: 152.75px;
+	color: #27198C;
+	font-family: "Roboto Slab";
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1.4px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.icon-label-lorem {
+	height: 22px;
+	width: 152.75px;
+	color: #27198C;
+	font-family: "Roboto Slab";
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1.4px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.icon-label {
+	height: 22px;
+	width: 152.75px;
+	color: #27198C;
+	font-family: "Roboto Slab";
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1.4px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.placeholder {
+	margin-left: 37px;
+	height: 80px;
+	width: 80px;
+}
+
+.shape {
+	box-sizing: border-box;
+	height: 80px;
+	width: 80px;
+	border: 3px solid #FE7010;
+}
+
+.01 {
+	height: 58px;
+	width: 152.75px;
+	color: #E5E5E5;
+	font-family: Muli;
+	font-size: 48px;
+	font-weight: 900;
+	line-height: 58px;
+}
+
+.02 {
+	height: 58px;
+	width: 152.75px;
+	color: #E5E5E5;
+	font-family: Muli;
+	font-size: 48px;
+	font-weight: 900;
+	line-height: 58px;
+}
+
+.03 {
+	height: 58px;
+	width: 152.75px;
+	color: #E5E5E5;
+	font-family: Muli;
+	font-size: 48px;
+	font-weight: 900;
+	line-height: 58px;
+}
+
+.04 {
+	height: 58px;
+	width: 152.75px;
+	color: #E5E5E5;
+	font-family: Muli;
+	font-size: 48px;
+	font-weight: 900;
+	line-height: 58px;
+}
+
+.button01 {
+	margin-top: -60px;
+	margin-left: 81px;
+	height: 50px;
+	width: 202px;
+}
+
+.button02 {
+	margin-top: -250px;
+	margin-left: 81px;
+	height: 50px;
+	width: 202px;
+}
+.plus {
+	margin-top: 17px;
+	margin-left: 17px;
+	height: 16px;
+	width: 16px;
+}
+
+.rectangle-3 {
+	float: right;
+	height: 50px;
+	width: 50px;
+	background-color: #FF6F0F;
+}
+
+.rectangle-2 {
+	float: left;
+	height: 50px;
+	width: 150px;
+	border: 1px solid #FF6F0F;
+}
+
+.button-text {
+	margin-top: 20px;
+	margin-left: 25px;
+	height: 15px;
+	width: 59px;
+	color: #27198C;
+	font-family: Muli;
+	font-size: 12px;
+	font-weight: 900;
+	letter-spacing: 1.4px;
+	line-height: 15px;
+}
+.images {
+	margin-top: 8px;
+	height: 990px;
+	width: 1433px;
+}
+
+.app-title {
+	text-align: center;
+	font-weight: normal;
+	font-size: 2.6rem;
+}
+
+.footer {
+	font-size: .7rem;
+	color: #888;
+	text-align: center;
+	margin: 0;
+}
