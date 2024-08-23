@@ -3,7 +3,7 @@ document.getElementById('app').innerHTML = `
 <div class="grey-panel">
     <div id="column1" style="float:left; margin:0; width:782px;">
 		<div class="text">
-			<div class="section-heading-copy">Section Heading</div>
+			<div class="section-heading-copy">RC Section Heading</div>
 			<div class="highlight-paragraph">Highlight paragraph duis aute irure dolor in reprehenderit in voluptate velit energy efficiency eu di fugiat.</div>
 			<div class="sed-ut-perspiciatis">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi ventus vitae ventus consecutem terra lora magnum lorem aqua.</div>
 		</div>
